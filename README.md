@@ -3,6 +3,8 @@
 
 A smart **web-based AI assistant** designed to help **young professionals** understand, calculate, and optimize their income tax using **Form 16 automation, regime comparison, Section 80 tracking, and AI-driven investment suggestions.**
 
+**🌍Website:** [Personal AI Tax Advisor (Indian-Specific)](https://personal-ai-tax-advisor-india-specific.onrender.com/) ⚖️
+
 ---
 
 ## 🚀 Problem Statement
@@ -48,7 +50,7 @@ Step VII -->  Personalised Tax PDF Report
 ## 📌 Key Features
 📤 Upload **Form 16 (Govt. or Private employee)**  
 ✅ **Auto extraction** of financial fields  
-⚖ Tax Engine based on **FY 2025–26 slab**  
+⚖️ Tax Engine based on **FY 2025–26 slab**  
 🧮 **Old vs New Regime comparison**  
 📲 Tracks **Section 80 deductions** (limit, used, remaining)  
 📝 **Editable user inputs** anytime  
@@ -64,20 +66,8 @@ Step VII -->  Personalised Tax PDF Report
 | 🧮 Real-time Regime Comparison | Calculates both regimes & suggests best |
 | ✏ Editable User Data | Users can modify their details anytime |
 | 📊 Section 80 Tracker | Tracks limits, usage & remaining deductions |
-| ⚖ AI-Powered Decisions | Suggests smart investment plans |
+| ⚖️ AI-Powered Decisions | Suggests smart investment plans |
 | 📄 PDF Summary | Download personalised tax report instantly |
-
----
-
-## 📷 Screenshots (Add Later)
-> ![Demo](personal-ai-tax-advisor_demo.mp4)
-```
-📌 /screenshots  
-│── home_page.png  
-│── form16_upload.png  
-│── tax_comparison.png  
-│── pdf_report.png  
-```
 
 ---
 
@@ -124,10 +114,10 @@ Typical repo structure:
 ## 👨‍💻 Team Members
 | Name | Role |
 |------|------|
-| **Sankalp Jumde** | AI & Backend Architecture |
-| Soham Tare | Tax Engine & Logic |
-| Vikrant Dhage | UI/UX & Documentation |
-| Sayali Kude | Validation & Testing |
+| **Sankalp Jumde** | ML model training (for private employee)<br> backend Integration and Deployment, <br> Research & Study: Tax Slabs and Deduction 80 Sections |
+| Soham Tare | ML model training (for private employee)<br> backend Integration and Deployment, <br> Research & Study: Saving Tax Legally |
+| Vikrant Dhage | UI/UX designing, Forntend Assistance, <br> Literature Review and Research |
+| Sayali Kude | UI/UX Development and Styling, <br>Documentation (Thesis+PPT), Research |
 
 ---
 
@@ -137,7 +127,7 @@ Your guidance helped us convert a simple idea into a practical solution. Thank y
 
 ---
 
-## 🛣 Future Scope
+## 🛣️ Future Scope
 - 🧾 Multi-year tax prediction  
 - 📱 Mobile app version  
 - 🗣 Voice-based tax assistant  
