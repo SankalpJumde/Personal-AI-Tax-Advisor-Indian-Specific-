@@ -115,7 +115,7 @@ Typical repo structure:
 | Name | Role |
 |------|------|
 | **Sankalp Jumde** | ML model training (for private employee)<br> backend Integration and Deployment, <br> Research & Study: Tax Slabs and Deduction 80 Sections |
-| Soham Tare | ML model training (for private employee)<br> backend Integration and Deployment, <br> Research & Study: Saving Tax Legally |
+| Soham Tare | ML model training (for government employee)<br> backend Integration and Deployment, <br> Research & Study: Saving Tax Legally |
 | Vikrant Dhage | UI/UX designing, Forntend Assistance, <br> Literature Review and Research |
 | Sayali Kude | UI/UX Development and Styling, <br>Documentation (Thesis+PPT), Research |
 
