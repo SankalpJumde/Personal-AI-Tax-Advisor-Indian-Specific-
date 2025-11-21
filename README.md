@@ -70,7 +70,7 @@ Step VII -->  Personalised Tax PDF Report
 ---
 
 ## 📷 Screenshots (Add Later)
-> <img src="C:\Users\shruj\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 131954.png">
+> ![Demo](path/to/personal-ai-tax-advisor_demo.mp4)
 ```
 📌 /screenshots  
 │── home_page.png  
