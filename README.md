@@ -81,6 +81,47 @@ Step VII -->  Personalised Tax PDF Report
 
 ---
 
+## 🗂 Project Structure
+
+Typical repo structure:
+
+```text
+.
+├─ app
+   ├─ new_app.py               # Flask APP
+   ├─ new_form16.py            # Form 16 Parser
+   ├─ pdf_generator.py         # Personalised Pdf Report Generation
+   ├─ tax_engine.py            # For Tax Calclulation 
+   ├─ user_info_model.py       # Additional User Informatiom
+   ├─ ai_tax_advisor.py        # if separated, else suggestion logic is in tax_calculator
+├─ requirements.txt
+├─ output/
+   ├─ Tax_ADvisor_Report
+├─ static/
+│  ├─ css
+|  │  ├─ style.css
+│  ├─ js
+|  │  ├─ script.js
+│  ├─ LOGO
+|  │  ├─ D:\Projects\tax-advisor-project\static\LOGO\Professional Emblem Logo for Tax Advisory.png
+|  ├─ data/
+|  │  ├─ chapter-VIA_Deductions.html
+|  │  ├─ form-16_partA.html
+|  │  ├─ form-16_partB.html
+|  │  ├─ Gross_salary.html
+|  |  ├─ old_new-regime.html
+|  |  ├─ result_display.html
+|  │  └─ TDS.html             
+│  ├─ templates
+|  │  ├─ index.html
+|  │  ├─ review.html
+|  │  ├─ result.html
+|  └─ uploads/                    # runtime folder for uploaded PDFs (created on server)
+|  │  ├─ sampleform16.pdf
+├─ run.py
+
+---
+
 ## 👨‍💻 Team Members
 | Name | Role |
 |------|------|
