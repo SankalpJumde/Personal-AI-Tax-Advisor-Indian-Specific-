@@ -1,5 +1,5 @@
-# 🧠 Personal AI Tax Advisor – Indian Specific 🇮🇳
-> **“Tax literacy is not just financial knowledge — it’s financial confidence.”**
+# 🧠 Personal AI Tax Advisor [Indian-Specific] 🇮🇳
+> **“Tax literacy is not just financial knowledge, but it’s financial confidence.”**
 
 A smart **web-based AI assistant** designed to help **young professionals** understand, calculate, and optimize their income tax using **Form 16 automation, regime comparison, Section 80 tracking, and AI-driven investment suggestions.**
 
@@ -14,18 +14,21 @@ Many young professionals in India face confusion while filing taxes:
 - ❓ Which investment plans actually reduce tax?
 
 📌 **Our Goal** – To make tax filing **simple, personalized, and intelligence-driven** using AI.  
-💡 **Not replacing Chartered Accountants** — but boosting their efficiency with an AI-powered tax engine.
+💡 **Not replacing Chartered Accountants**, but boosting their efficiency with an AI-powered tax engine.
 
 ---
 
 ## ⚙️ How It Works
-```mermaid
-flowchart TD
-A[Upload Form 16] --> B[Auto Extraction of Financial Fields]
-B --> C[AI Tax Engine (FY 2025-26)]
-C --> D[Old vs New Regime Comparison]
-D --> E[Best Regime Suggestion + Tax Savings]
-E --> F[Personalised Tax PDF Report]
+> 
+```
+Step I   -->  Upload Form 16 and additional user info
+Step II  -->  Auto Extraction of Financial Fields
+Step III -->  Review and Editable 
+Step IV  -->  AI Tax Engine (FY 2025-26) Calculation
+Step VI  -->  Old vs New Regime Comparison 
+              + Best Regime Suggestion 
+              + AI Tax Savings Suggestions
+Step VII -->  Personalised Tax PDF Report
 ```
 
 ---
@@ -33,26 +36,25 @@ E --> F[Personalised Tax PDF Report]
 ## 🔧 Tech Stack
 | Component | Technology |
 |-----------|------------|
-| Backend | Python (FastAPI / Flask) |
-| AI Layer | Python + LLM + Rule-based Tax Logic |
-| Frontend | React / HTML / CSS |
-| Database | MongoDB / Firebase |
-| Form Parsing | Regex + Rule-Based Extraction |
-| PDF Report | ReportLab / Python-PDFKit |
-| Deployment | (To be added) |
+| Backend | Python and Flask |
+| AI Model | Python + Rule-based Tax Logic <br> + Income Tax Slabs (FY 25-26)|
+| Frontend | HTML / CSS / JS |
+| Form Parsing | Pdfplumber + Rule-Based Extraction |
+| PDF Report | ReportLab |
+| Deployment | Render |
 
 ---
 
 ## 📌 Key Features
-✔ Upload **Form 16 (Govt. or Private employee)**  
-✔ **Auto extraction** of financial fields  
-✔ Tax Engine based on **FY 2025–26 slab**  
-✔ **Old vs New Regime comparison**  
-✔ Tracks **Section 80 deductions** (limit, used, remaining)  
-✔ **Editable user inputs** anytime  
-✔ One-click **AI Tax Report (PDF)**  
-✔ AI-based **investment & tax-saving suggestions**  
-✔ **90%+ parsing accuracy — No OCR used**
+📤 Upload **Form 16 (Govt. or Private employee)**  
+✅ **Auto extraction** of financial fields  
+⚖ Tax Engine based on **FY 2025–26 slab**  
+🧮 **Old vs New Regime comparison**  
+📲 Tracks **Section 80 deductions** (limit, used, remaining)  
+📝 **Editable user inputs** anytime  
+📁 One-click **AI Tax Report (PDF)**  
+🤖 AI-based **investment & tax-saving suggestions**  
+📈 **90%+ parsing accuracy; No OCR used**
 
 ---
 
@@ -82,15 +84,15 @@ E --> F[Personalised Tax PDF Report]
 ## 👨‍💻 Team Members
 | Name | Role |
 |------|------|
-| **Your Name** | AI & Backend Architecture |
-| Team Member 2 | Tax Engine & Logic |
-| Team Member 3 | UI/UX & Documentation |
-| Team Member 4 | Validation & Testing |
+| **Sankalp Jumde** | AI & Backend Architecture |
+| Soham Tare | Tax Engine & Logic |
+| Vikrant Dhage | UI/UX & Documentation |
+| Sayali Kude | Validation & Testing |
 
 ---
 
 ## 🙏 Acknowledgement
-**Guided by:** *(Guide Name)*  
+**Guided by:** *Dr. Sonia H. Bajaj*  
 Your guidance helped us convert a simple idea into a practical solution. Thank you!
 
 ---
@@ -116,7 +118,7 @@ cd personal-ai-tax-advisor
 pip install -r requirements.txt
 
 # Run the backend
-python app.py
+python run.py
 ```
 
 ---
@@ -124,7 +126,7 @@ python app.py
 ## 🌐 Deployment (Coming Soon)
 | Platform | Status |
 |----------|--------|
-| Render | 🚧 In Progress |
+| Render | ✅ Wrorking |
 | AWS / Azure | 📌 Planned |
 | Docker Support | ⏳ Coming Soon |
 
@@ -137,14 +139,14 @@ This project is licensed under the **MIT License**.
 
 ## ⭐ Support & Contribution
 If you like this project, please **⭐ star the repository** and share feedback!  
-Contributions are welcome — fork the repo & submit a PR 🚀
+Contributions are welcome  fork the repo & submit a PR 🚀
 
 ---
 
 ## 📩 Contact
-📧 Email: yourname@email.com  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🐙 GitHub: https://github.com/your-username
+📧 Email: [sankalpkrishna1103@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/sankalp-jumde/]  
+🐙 GitHub: [https://www.linkedin.com/in/sankalp-jumde/]
 
 ---
 
