@@ -70,7 +70,7 @@ Step VII -->  Personalised Tax PDF Report
 ---
 
 ## 📷 Screenshots (Add Later)
-> Add UI screenshots here once frontend is ready
+> <img src="C:\Users\shruj\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 131954.png">
 ```
 📌 /screenshots  
 │── home_page.png  
@@ -81,7 +81,7 @@ Step VII -->  Personalised Tax PDF Report
 
 ---
 
-## 🗂 Project Structure
+## 📂 Project Structure
 
 Typical repo structure:
 
@@ -102,7 +102,7 @@ Typical repo structure:
 │  ├─ js
 |  │  ├─ script.js
 │  ├─ LOGO
-|  │  ├─ D:\Projects\tax-advisor-project\static\LOGO\Professional Emblem Logo for Tax Advisory.png
+|  │  ├─ Professional Emblem Logo for Tax Advisory.png
 |  ├─ data/
 |  │  ├─ chapter-VIA_Deductions.html
 |  │  ├─ form-16_partA.html
@@ -115,7 +115,7 @@ Typical repo structure:
 |  │  ├─ index.html
 |  │  ├─ review.html
 |  │  ├─ result.html
-|  └─ uploads/                    # runtime folder for uploaded PDFs (created on server)
+|  └─ uploads/                 # runtime folder for uploaded PDFs (created on server)
 |  │  ├─ sampleform16.pdf
 ├─ run.py
 ```
@@ -132,7 +132,7 @@ Typical repo structure:
 ---
 
 ## 🙏 Acknowledgement
-**Guided by:** *Dr. Sonia H. Bajaj*  
+**Guided by:** *[[Dr. Sonia H. Bajaj](https://www.linkedin.com/in/dr-sonia-bajaj-9a947334/)]*  
 Your guidance helped us convert a simple idea into a practical solution. Thank you!
 
 ---
@@ -184,9 +184,10 @@ Contributions are welcome  fork the repo & submit a PR 🚀
 ---
 
 ## 📩 Contact
-📧 Email: [sankalpkrishna1103@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/sankalp-jumde/]  
-🐙 GitHub: [https://www.linkedin.com/in/sankalp-jumde/]
+**🧑‍💻 SANKALP JUMDE** <br>
+📧 [[Email](sankalpkrishna1103@gmail.com)]  |
+🔗 [[LinkedIn](https://www.linkedin.com/in/sankalp-jumde/)]  |
+🐙 [[GitHub](https://www.linkedin.com/in/sankalp-jumde/)]
 
 ---
 
