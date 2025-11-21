@@ -86,7 +86,6 @@ Step VII -->  Personalised Tax PDF Report
 Typical repo structure:
 
 ```text
-.
 ├─ app
    ├─ new_app.py               # Flask APP
    ├─ new_form16.py            # Form 16 Parser
@@ -119,7 +118,7 @@ Typical repo structure:
 |  └─ uploads/                    # runtime folder for uploaded PDFs (created on server)
 |  │  ├─ sampleform16.pdf
 ├─ run.py
-
+```
 ---
 
 ## 👨‍💻 Team Members
